@@ -1,0 +1,16 @@
+{
+  "name": "node03",
+  "version": "1.0.0",
+  "description": "SERVICENAME=pippo01 node  app/server.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "os": "^0.1.1"
+  }
+}
